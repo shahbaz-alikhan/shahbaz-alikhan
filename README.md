@@ -106,12 +106,14 @@ I'm a **Senior AI Data Engineer** passionate about building scalable AI/ML syste
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![Shahbaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahbaz-alikhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-alikhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shahbaz-alikhan&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahbaz-alikhan&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9)
+![Shahbaz's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shahbaz-alikhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true&count_private=false)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shahbaz-alikhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahbaz-alikhan&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9&area=true&hide_border=true)
 
 </div>
 
