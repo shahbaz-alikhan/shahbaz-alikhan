@@ -64,6 +64,22 @@ I'm a **Senior AI Data Engineer** passionate about building scalable AI/ML syste
 
 ## 💼 Featured Projects
 
+### 🤖 [AI Document Analyzer](https://github.com/shahbaz-alikhan/ai-document-analyzer)
+**Enterprise AI/ML System with LangGraph**
+- Production-grade document classification using **LangGraph** StateGraph workflows
+- **FastAPI** backend with async/await patterns and structured logging
+- **Azure Cosmos DB** integration with hierarchical partition keys
+- Demonstrates: AI orchestration, cloud architecture, scalable design
+- Technologies: **Python**, **LangGraph**, **FastAPI**, **Azure Cosmos DB**, **Docker**
+
+### ☁️ [Cloud Architecture Patterns](https://github.com/shahbaz-alikhan/cloud-architecture-patterns)
+**AWS Infrastructure & Design Patterns**
+- Production-tested patterns for **ECS**, **Step Functions**, and **Lambda**
+- Event-driven architecture with microservices
+- Infrastructure as Code with CloudFormation/Terraform
+- Demonstrates: Cloud architecture, orchestration, scalability
+- Technologies: **AWS ECS**, **Step Functions**, **Lambda**, **RDS**, **DynamoDB**
+
 ### 🔬 [P4 In-Network AllReduce](https://github.com/shahbaz-alikhan/p4-in-network-allreduce)
 **High-Performance Distributed Computing**
 - Implemented in-network computing using P4 programmable switches
