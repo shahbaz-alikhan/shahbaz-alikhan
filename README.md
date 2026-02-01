@@ -105,10 +105,12 @@ I'm a **Senior AI Data Engineer** passionate about building scalable AI/ML syste
 
 ## 📈 GitHub Stats
 
+> 💡 **Note**: I have **2,558+ total contributions** including private work. [Enable private contributions visibility](https://github.com/settings/profile) shows the full picture!
+
 <div align="center">
 
 <a href="https://github.com/shahbaz-alikhan">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahbaz-alikhan&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahbaz-alikhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahbaz-alikhan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
 </a>
 
